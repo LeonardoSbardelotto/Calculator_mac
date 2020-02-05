@@ -46,7 +46,7 @@ class Memory {
 
     }
 
-    //_wipeValue = !isEqualSign;
+    _wipeValue = !isEqualSign;
 
     _wipeValue = true;
   }
